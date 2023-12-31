@@ -6,6 +6,6 @@ Além disso, a flexibilidade do BurgerMC não se limita ao momento inicial do pe
 
 
 📌 Tecnologias:
-PHP
-MySQL
-HTML,CSS & Bootstrap
+PHP,
+MySQL,
+HTML, CSS & Bootstrap
